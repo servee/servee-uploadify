@@ -1,0 +1,4 @@
+include README.md
+recursive-include servee_uploadify *
+recursive-include servee_uploadify/static *
+recursive-include docs *
