@@ -111,9 +111,6 @@ setup(
     author_email = 'issac@servee.com',
     packages = find_packages(exclude=[]),
     package_data = find_package_data('servee_uploadify', only_in_packages=False),
-    install_requires = [
-        'django-servee>=0.7'
-    ],
     include_package_data=True,
     classifiers = [
         'Development Status :: 3 - Alpha',
